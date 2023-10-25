@@ -1,4 +1,4 @@
-package Actividad5.PromedioEstudianteInterfaz;
+package Actividad5.PromedioEstudianteInterfaz.PromedioEstudianteInterfaz;
 
 public class Notas {
     double[] listaNotas; /* Atributo que identifica un array de notas de tipo double */

@@ -1,4 +1,4 @@
-package Actividad5.PromedioEstudianteInterfaz;
+package Actividad5.PromedioEstudianteInterfaz.PromedioEstudianteInterfaz;
 
 public class Principal {
     public static void main(String[] args) {
