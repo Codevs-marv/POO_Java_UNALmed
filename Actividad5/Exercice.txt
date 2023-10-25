@@ -1,0 +1,22 @@
+OBJETIVOS DE APRENDIZAJE
+
+Al finalizar este ejercicio, el lector tendrá la capacidad para:
+- Conocer y aplicar diversos componentes swing para desarrollar interfaces gráficas de usuario.
+- Realizar una gestión básica de los eventos generados mediante la interacción con los diferentes componentes swing.
+
+
+
+Enunciado: 
+
+Se requiere desarrollar un programa con interfaz gráfica de usuario que genere una ventana donde se solicite el ingreso de cinco notas obtenidas
+por un estudiante.
+
+El programa debe calcular y mostrar en la parte inferior de la ventana los siguientes datos:
+- El promedio de notas ingresadas.
+- La desviación estándar de las notas ingresadas.
+- La mayor nota obtenida.
+- La menor nota obtenida
+
+
+
+Texto guia: Ejercicios de Programación Orientada a Objetos con Java y UML – Leonardo Bermón Angarita – Universidad Nacional de Colombia
