@@ -1,4 +1,4 @@
-package Actividad5.PromedioEstudianteInterfaz.PromedioEstudianteInterfaz;
+package Actividad5.PromedioEstudiante;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
