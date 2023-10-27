@@ -16,3 +16,6 @@ figuras geométricas son el cilindro, la esfera y la pirámide.
 
 Una vez ingresados estos datos, el programa calcula el volumen y superficie de cada figura. Para desarrollar el programa se debe crear una
 jerarquía de clases para las diferentes figuras geométricas requeridas.
+
+
+Texto guia: Ejercicios de Programación Orientada a Objetos con Java y UML – Leonardo Bermón Angarita – Universidad Nacional de Colombia
