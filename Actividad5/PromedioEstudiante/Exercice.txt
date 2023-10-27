@@ -19,4 +19,4 @@ El programa debe calcular y mostrar en la parte inferior de la ventana los sigui
 
 
 
-Texto guia: Ejercicios de Programación Orientada a Objetos con Java y UML – Leonardo Bermón Angarita – Universidad Nacional de Colombia
+Texto Guia: Ejercicios de Programación Orientada a Objetos con Java y UML – Leonardo Bermón Angarita – Universidad Nacional de Colombia
