@@ -1,0 +1,18 @@
+OBJETIVO DE APRENDIZAJE
+
+Al finalizar este ejercicio, el lector tendrá la capacidad para definir oyentes o listeners para el tratamiento de eventos generados mediante la interacción
+de usuario en la interfaz gráfica.
+
+
+
+ENUNCIADO: Persona
+
+Se requiere desarrollar un programa con interfaz gráfica de usuario que permita calcular el volumen y superficie de varias figuras geométricas. Las
+figuras geométricas son el cilindro, la esfera y la pirámide.
+
+- Para el cilindro se solicitan su radio y altura (en centímetros).
+- Para la esfera, su radio (en centímetros).
+- Para la pirámide, su base, altura y apotema (en centímetros).
+
+Una vez ingresados estos datos, el programa calcula el volumen y superficie de cada figura. Para desarrollar el programa se debe crear una
+jerarquía de clases para las diferentes figuras geométricas requeridas.
